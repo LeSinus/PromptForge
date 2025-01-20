@@ -1,2 +1,4 @@
-# PromptForge
-Interactive Meta-Prompt Generator for LLMs
+# PromptForge: Interactive Meta-Prompt Generator for LLMs
+
+This Meta-Prompt Generator is designed to systematically create effective prompts for Large Language Models through an interactive, step-by-step approach. Unlike traditional prompt templates, it employs a conversational interface that guides users through the prompt creation process using numbered options while maintaining flexibility for custom inputs.
+The generator focuses on six key aspects of prompt engineering: purpose, audience, output format, tone, length, and constraints. By breaking down the prompt creation process into manageable questions with predefined options, it helps users create structured, effective prompts without overwhelming them with technical details. This approach is particularly valuable for teams working with LLMs, as it ensures consistency in prompt generation while accommodating various use cases – from creative content generation to technical documentation and data analysis tasks.
